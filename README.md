@@ -106,5 +106,11 @@ pip install --extra-index-url https://download.pytorch.org/whl/cu125 \
 ## 成果
 
 ### 執行影片
-- [微調模型](https://youtu.be/8LThkxn2uSs)
-- [預測結果](https://youtu.be/vhDH9o7HgNA)
+
+**微調模型**
+
+[![微調模型](https://img.youtube.com/vi/8LThkxn2uSs/maxresdefault.jpg)](https://youtu.be/8LThkxn2uSs)
+
+**預測結果**
+
+[![預測結果](https://img.youtube.com/vi/vhDH9o7HgNA/maxresdefault.jpg)](https://youtu.be/vhDH9o7HgNA)

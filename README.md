@@ -104,8 +104,7 @@ pip install --extra-index-url https://download.pytorch.org/whl/cu125 \
 2. 微調完成後，開啟 `predict.ipynb`，執行所有 cell 進行預測
 
 ## 成果
-<!-- 請在此處放上執行過程的擷圖或說明圖片 -->
-<!-- ![](執行過程的擷圖) -->
 
-<!-- 請在此處放上影片連結 -->
-<!-- [影片名稱](你的影片連結) -->
+### 執行影片
+- [微調模型](https://youtu.be/8LThkxn2uSs)
+- [預測結果](https://youtu.be/vhDH9o7HgNA)
